@@ -1,1 +1,1 @@
-"# fusyon.fr-blog-core" 
+Include date format for Ghost blog plateform
